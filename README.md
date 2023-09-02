@@ -81,7 +81,7 @@ Upon completion of the assignment, you should have a single, cohesive dataset th
 - **Documentation**: Document the code clearly and concisely using docstrings. Avoid in-line comments. Use Markdown cells in the notebook for context at key points. Don't create a Markdown cell for every code cell.
 - **Vectorize**: Avoid tedious row-wise iterations of large tables and instead use vectorized functions.
 
-### Contact 💬
+## Contact Us 💬
 
 Feel free to reach out to us, should you have any questions.
 
