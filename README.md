@@ -80,3 +80,21 @@ Upon completion of the assignment, you should have a single, cohesive dataset th
 - **Avoid Hardcoding**: Don't hardcode values or use inflexible code styles. This is related to error handling.
 - **Documentation**: Document the code clearly and concisely using docstrings. Avoid in-line comments. Use Markdown cells in the notebook for context at key points. Don't create a Markdown cell for every code cell.
 - **Vectorize**: Avoid tedious row-wise iterations of large tables and instead use vectorized functions.
+
+### Contact
+
+Feel free to reach out to us, should you have any questions.
+
+| Name            | LinkedIn                               | GitHub                            |
+| :-------------- | :------------------------------------- | :-------------------------------- |
+| Nuno Freitas  | <https://www.linkedin.com/in/nunoamaralfreitas/> | <https://github.com/NaFreitaz>  |
+| Eshwaran Venkat | <https://linkedin.com/in/eshwaranv98/>   | <https://github.com/cricksmaidiene> |
+| Kelvin DeCosta  | <https://linkedin.com/in/kelvindecosta/> | <https://github.com/kelvindecosta>  |
+
+> Feel free to ping us anytime for support.
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/rHR8qP1mC5V3G/giphy.gif?cid=6104955e5o2xk6gadzs2yw1nignfpkhtg8bo08fm37d9sj6m&rid=giphy.gif&ct=g" alt="Students copying" />
+  <p align="center"><strong>May the Force be with You!</strong></p>
+</p>
+
