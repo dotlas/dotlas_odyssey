@@ -1,0 +1,35 @@
+Data Usage License
+Version 1.0, 2023-09-02
+
+Copyright (c) 2023, Dotlas Inc.
+All Rights Reserved
+
+I. Definitions
+
+1. "Data" refers to all information, including but not limited to data provided by Dotlas through S3 URLs for the purpose of this assignment.
+2. "Derivative Work" refers to any data, content, or work created by the licensee that is based upon, derived from, or includes any portion of the Data.
+
+II. Grant of License
+Subject to the terms and conditions of this License, Dotlas Inc. hereby grants to the licensee a non-exclusive, non-transferable, worldwide, royalty-free license to use, copy, modify, and distribute the Data and Derivative Works for research and open-source purposes only.
+
+III. Restrictions
+
+1. Commercial Use: The licensee is not permitted to use the Data or any Derivative Work for commercial purposes, including but not limited to, the sale, resale, redistribution, licensing, or use in internal or proprietary models or systems, without the express written permission of Dotlas Inc..
+2. No Sublicensing: The licensee may not sublicense the Data or any Derivative Work.
+
+IV. Disclaimer of Warranty
+The Data is provided "as is" without warranty of any kind, either express or implied, including without limitation, any warranty of merchantability, fitness for a particular purpose, or non-infringement.
+
+V. Limitation of Liability
+In no event shall Dotlas Inc. be liable for any damages, including but not limited to, direct, indirect, special, incidental, or consequential damages, arising out of or in connection with the use or inability to use the Data, even if Dotlas Inc. has been advised of the possibility of such damages.
+
+VI. Termination
+This License will terminate automatically without notice from Dotlas Inc. if the licensee fails to comply with any provision of this License. Upon termination, the licensee must cease all use of the Data and destroy all copies of the Data in their possession.
+
+VII. Governing Law
+This License shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+VIII. Entire Agreement
+This License constitutes the entire agreement between the parties with respect to the use of the Data and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+By using the Data, the licensee agrees to be bound by the terms and conditions of this License.
