@@ -13,6 +13,7 @@ A data engineering assignment
     - [Data 📇](#data-)
     - [Pipeline ⛳️](#pipeline-️)
     - [Code 🧼](#code-)
+  - [Contact Us 💬](#contact-us-)
 
 ## Overview 🗼
 
@@ -80,3 +81,13 @@ Upon completion of the assignment, you should have a single, cohesive dataset th
 - **Avoid Hardcoding**: Don't hardcode values or use inflexible code styles. This is related to error handling.
 - **Documentation**: Document the code clearly and concisely using docstrings. Avoid in-line comments. Use Markdown cells in the notebook for context at key points. Don't create a Markdown cell for every code cell.
 - **Vectorize**: Avoid tedious row-wise iterations of large tables and instead use vectorized functions.
+
+## Contact Us 💬  
+
+Feel free to reach out to us, should you have any questions.
+
+| Name            | LinkedIn                               | GitHub                            |
+| :-------------- | :------------------------------------- | :-------------------------------- |
+| Nuno Freitas  | <https://www.linkedin.com/in/nunoamaralfreitas/> | <https://github.com/NaFreitaz>  |
+| Eshwaran Venkat | <https://linkedin.com/in/eshwaranv98/>   | <https://github.com/cricksmaidiene> |
+| Kelvin DeCosta  | <https://linkedin.com/in/kelvindecosta/> | <https://github.com/kelvindecosta>  |
