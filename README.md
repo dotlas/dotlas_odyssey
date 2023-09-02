@@ -8,6 +8,12 @@ A data engineering assignment
     - [Stage 2: **Augmentation** 🧱](#stage-2-augmentation-)
     - [Stage 3: **Acclamation** ☑️](#stage-3-acclamation-️)
     - [Deliverables](#deliverables)
+  - [Getting started 🏎](#getting-started-)
+    - [Create a Private fork 🍴](#create-a-private-fork-)
+    - [Install Python `v3.9` or higher 🐍](#install-python-v39-or-higher-)
+    - [Install dependencies 📦](#install-dependencies-)
+    - [Get crackin' ⌛️](#get-crackin-️)
+  - [Submission 🏝](#submission-)
   - [Grading Criteria 📝](#grading-criteria-)
     - [Problem Solving 🕵🏼‍♀️](#problem-solving-️)
     - [Data 📇](#data-)
@@ -47,6 +53,48 @@ In the final stage, you will implement a series of data quality tests to ensure 
 ### Deliverables
 
 Upon completion of the assignment, you should have a single, cohesive dataset that has been augmented with additional fields extracted from the web and that has passed all defined data quality tests.
+
+## Getting started 🏎
+
+### Create a Private fork 🍴
+
+Let's create a private fork of this repository:
+
+- [Go to the Import a repository page on GitHub](https://github.com/new/import)
+- Fill in the information as shown below:
+
+  <p align="center">
+    <img height="400" src="./assets/private_fork.png" alt="How to create a private fork" />
+    <p align="center">How to create a private fork</p>
+  </p>
+
+Once the repository is created on GitHub, clone it onto your local system!
+
+### Install Python `v3.9` or higher 🐍
+
+- You can download it from the [Python website](https://www.python.org/downloads/release/python-3105/)
+- Or, you can install [Anaconda](https://www.anaconda.com/) and run the following command in your terminal:
+
+  ```bash
+  conda create --name dotlas python=3.9 -y
+  conda activate dotlas
+  ```
+
+### Install dependencies 📦
+
+```bash
+python -m pip install -r requirements
+```
+
+> You may install any additional dependencies!
+
+### Get crackin' ⌛️
+
+Your odyssey's details are displayed in [odyssey.ipynb](./odyssey.ipynb).
+
+## Submission 🏝
+
+Once you're ready for evaluation, [invite us](#contact) as [private collaborators to your private fork](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)!
 
 ## Grading Criteria 📝
 
@@ -88,6 +136,5 @@ Feel free to reach out to us, should you have any questions.
 
 | Name            | LinkedIn                               | GitHub                            |
 | :-------------- | :------------------------------------- | :-------------------------------- |
-| Nuno Freitas  | <https://www.linkedin.com/in/nunoamaralfreitas/> | <https://github.com/NaFreitaz>  |
 | Eshwaran Venkat | <https://linkedin.com/in/eshwaranv98/>   | <https://github.com/cricksmaidiene> |
 | Kelvin DeCosta  | <https://linkedin.com/in/kelvindecosta/> | <https://github.com/kelvindecosta>  |
