@@ -64,7 +64,7 @@ Let's create a private fork of this repository:
 - Fill in the information as shown below:
 
   <p align="center">
-    <img height="400" src="./assets/private_fork.png" alt="How to create a private fork" />
+    <img height="400" src="./assets/private-fork.png" alt="How to create a private fork" />
     <p align="center">How to create a private fork</p>
   </p>
 
